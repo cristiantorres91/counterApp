@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "counterApp",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
